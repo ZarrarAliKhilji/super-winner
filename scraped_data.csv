@@ -1,0 +1,4 @@
+ticker,timestamp,status,source_url
+AAPL,2026-10-18 01:21:32,Active Feed,https://finance.yahoo.com/quote/AAPL/
+MSFT,2026-10-18 01:21:34,Active Feed,https://finance.yahoo.com/quote/MSFT/
+TSLA,2026-10-18 01:21:39,Active Feed,https://finance.yahoo.com/quote/TSLA/

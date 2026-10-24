@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "total_valid_records": 2,
+    "data": [
+        {
+            "id": 1,
+            "title": "Enterprise Record Alpha",
+            "status_code": 200,
+            "extracted_at": "2026-10-24"
+        },
+        {
+            "id": 2,
+            "title": "Enterprise Record Beta",
+            "status_code": 200,
+            "extracted_at": "2026-10-24"
+        }
+    ]
+}

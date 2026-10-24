@@ -1,0 +1,149 @@
+{
+    "total_requests": 20,
+    "successful": 20,
+    "failed": 0,
+    "total_time_sec": 4.443,
+    "avg_latency_sec": 2.011,
+    "results": [
+        {
+            "id": 1,
+            "url": "https://httpbin.org/delay/1",
+            "status": 200,
+            "latency_sec": 2.485,
+            "success": true
+        },
+        {
+            "id": 2,
+            "url": "https://httpbin.org/json",
+            "status": 200,
+            "latency_sec": 2.109,
+            "success": true
+        },
+        {
+            "id": 3,
+            "url": "https://httpbin.org/uuid",
+            "status": 200,
+            "latency_sec": 1.151,
+            "success": true
+        },
+        {
+            "id": 4,
+            "url": "https://httpbin.org/user-agent",
+            "status": 200,
+            "latency_sec": 1.355,
+            "success": true
+        },
+        {
+            "id": 5,
+            "url": "https://vyronsocial.com",
+            "status": 200,
+            "latency_sec": 1.323,
+            "success": true
+        },
+        {
+            "id": 6,
+            "url": "https://httpbin.org/delay/1",
+            "status": 200,
+            "latency_sec": 4.077,
+            "success": true
+        },
+        {
+            "id": 7,
+            "url": "https://httpbin.org/json",
+            "status": 200,
+            "latency_sec": 1.737,
+            "success": true
+        },
+        {
+            "id": 8,
+            "url": "https://httpbin.org/uuid",
+            "status": 200,
+            "latency_sec": 1.757,
+            "success": true
+        },
+        {
+            "id": 9,
+            "url": "https://httpbin.org/user-agent",
+            "status": 200,
+            "latency_sec": 1.641,
+            "success": true
+        },
+        {
+            "id": 10,
+            "url": "https://vyronsocial.com",
+            "status": 200,
+            "latency_sec": 1.504,
+            "success": true
+        },
+        {
+            "id": 11,
+            "url": "https://httpbin.org/delay/1",
+            "status": 200,
+            "latency_sec": 2.675,
+            "success": true
+        },
+        {
+            "id": 12,
+            "url": "https://httpbin.org/json",
+            "status": 200,
+            "latency_sec": 1.668,
+            "success": true
+        },
+        {
+            "id": 13,
+            "url": "https://httpbin.org/uuid",
+            "status": 200,
+            "latency_sec": 0.898,
+            "success": true
+        },
+        {
+            "id": 14,
+            "url": "https://httpbin.org/user-agent",
+            "status": 200,
+            "latency_sec": 2.518,
+            "success": true
+        },
+        {
+            "id": 15,
+            "url": "https://vyronsocial.com",
+            "status": 200,
+            "latency_sec": 1.141,
+            "success": true
+        },
+        {
+            "id": 16,
+            "url": "https://httpbin.org/delay/1",
+            "status": 200,
+            "latency_sec": 3.544,
+            "success": true
+        },
+        {
+            "id": 17,
+            "url": "https://httpbin.org/json",
+            "status": 200,
+            "latency_sec": 1.693,
+            "success": true
+        },
+        {
+            "id": 18,
+            "url": "https://httpbin.org/uuid",
+            "status": 200,
+            "latency_sec": 2.633,
+            "success": true
+        },
+        {
+            "id": 19,
+            "url": "https://httpbin.org/user-agent",
+            "status": 200,
+            "latency_sec": 2.515,
+            "success": true
+        },
+        {
+            "id": 20,
+            "url": "https://vyronsocial.com",
+            "status": 200,
+            "latency_sec": 1.789,
+            "success": true
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "pipeline_status": "success",
+    "security_layer": "Proxy Rotation & Pydantic V2 Enabled",
+    "total_valid_records": 2,
+    "data": [
+        {
+            "id": 101,
+            "title": "Advanced Pipeline Alpha",
+            "status_code": 200,
+            "proxy_used": "None",
+            "extracted_at": "2026-10-24"
+        },
+        {
+            "id": 102,
+            "title": "Advanced Pipeline Beta",
+            "status_code": 200,
+            "proxy_used": "None",
+            "extracted_at": "2026-10-24"
+        }
+    ]
+}
